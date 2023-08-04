@@ -1,0 +1,22 @@
+C:\Users\Bhathika Nilesh\source\repos\library system C# group project\library system C# group project\bin\Debug\library system C# group project.exe.config
+C:\Users\Bhathika Nilesh\source\repos\library system C# group project\library system C# group project\bin\Debug\library system C# group project.exe
+C:\Users\Bhathika Nilesh\source\repos\library system C# group project\library system C# group project\bin\Debug\library system C# group project.pdb
+C:\Users\Bhathika Nilesh\source\repos\library system C# group project\library system C# group project\obj\Debug\library system C# group project.csproj.AssemblyReference.cache
+C:\Users\Bhathika Nilesh\source\repos\library system C# group project\library system C# group project\obj\Debug\library system C# group project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bhathika Nilesh\source\repos\library system C# group project\library system C# group project\obj\Debug\library_system_C__group_project.Properties.Resources.resources
+C:\Users\Bhathika Nilesh\source\repos\library system C# group project\library system C# group project\obj\Debug\library system C# group project.csproj.GenerateResource.cache
+C:\Users\Bhathika Nilesh\source\repos\library system C# group project\library system C# group project\obj\Debug\library system C# group project.csproj.CoreCompileInputs.cache
+C:\Users\Bhathika Nilesh\source\repos\library system C# group project\library system C# group project\obj\Debug\library system C# group project.exe
+C:\Users\Bhathika Nilesh\source\repos\library system C# group project\library system C# group project\obj\Debug\library system C# group project.pdb
+C:\Users\Bhathika Nilesh\source\repos\library system C# group project\library system C# group project\obj\Debug\library_system_C__group_project.dashbord.resources
+C:\Users\Bhathika Nilesh\source\repos\library system C# group project\library system C# group project\obj\Debug\library_system_C__group_project.AddBook.resources
+C:\Users\Bhathika Nilesh\source\repos\library system C# group project\library system C# group project\obj\Debug\library_system_C__group_project.viewbook.resources
+C:\Users\Bhathika Nilesh\source\repos\library system C# group project\library system C# group project\obj\Debug\library_system_C__group_project.AddStudent.resources
+C:\Users\Bhathika Nilesh\source\repos\library system C# group project\library system C# group project\obj\Debug\library_system_C__group_project.ViewStudentInformation.resources
+C:\Users\Bhathika Nilesh\source\repos\library system C# group project\library system C# group project\obj\Debug\library_system_C__group_project.IssueBooks.resources
+C:\Users\Bhathika Nilesh\source\repos\library system C# group project\library system C# group project\obj\Debug\library_system_C__group_project.ReturnBook.resources
+C:\Users\Bhathika Nilesh\source\repos\library system C# group project\library system C# group project\bin\Debug\LMS.mdf
+C:\Users\Bhathika Nilesh\source\repos\library system C# group project\library system C# group project\bin\Debug\LMS_log.ldf
+C:\Users\Bhathika Nilesh\source\repos\library system C# group project\library system C# group project\obj\Debug\library_system_C__group_project.CompleteBookDetails.resources
+C:\Users\Bhathika Nilesh\source\repos\library system C# group project\library system C# group project\obj\Debug\library_system_C__group_project.SignIn.resources
+C:\Users\Bhathika Nilesh\source\repos\library system C# group project\library system C# group project\obj\Debug\library_system_C__group_project.SignUp.resources
